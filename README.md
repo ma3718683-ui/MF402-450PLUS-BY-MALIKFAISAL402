@@ -13,6 +13,7 @@
 - And Many More!
 
 ### 📦 How to Deploy
+
 npm install
 node bot.js
 
