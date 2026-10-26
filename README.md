@@ -12,10 +12,11 @@
 - Anti-Link / Anti-Badword
 - And Many More!
 
-### 📦 How to Deploy
-
-npm install
-node bot.js
+ ### 📦 How to Deploy
+ ```
+ npm install
+ node bot.js
+ ```
 
 ### 👑 Credits
-Made By Malik Faisal 402 - 479 Squad Owner
+Made By Malik Faisal 402
